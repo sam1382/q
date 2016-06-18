@@ -208,11 +208,13 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
     "xy",
     "xy2",
     "xy3",
     "xy4",
+    "xy5",
+    "xy6",
+    "xy7",
     "plugins",
     "spam",
     "spam2",
